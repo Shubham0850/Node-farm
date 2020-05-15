@@ -1,0 +1,17 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Shubham Raj",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
